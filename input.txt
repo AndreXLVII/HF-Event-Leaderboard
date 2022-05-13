@@ -1,0 +1,245 @@
+
+76561198364520924,'GDE | Ch.2 | Antoine Antoine',7,4,1150,British
+76561198829194062,'4teRI_GW_OStGefr ALEX',9,2,1200,Italian
+76561198149267087,'|VII Fenix|-Sdt- SAURON',3,5,803,Italian
+76561199192789046,'4teRI_GW_OGefr - Fabian',5,0,485,Italian
+76561199112316865,'4teRI_GW_Rek Leutnant5',3,2,430,Italian
+76561198126003687,'[87th] Maj. | GodEmperorBrolly',8,2,1369,Italian
+76561198103442477,'GDE | Fsl | Mouflard',2,4,755,British
+76561198040520923,'GDE | Ch.1 | Antoine Julien',3,5,1175,British
+76561197977536576,'GDE | Ch.2 | Alexandre Prost',4,7,1239,British
+76561198157745825,'4teRI_GW_Rek  Applejack',0,0,1175,Italian
+76561198352783987,'4teRI_GW_Reit Tim',2,3,635,Italian
+76561198055328934,'4teRI_GW_Kpl goortzer',2,2,445,Italian
+76561198151763653,'4teRI_GW_Gefr | Schmoker',3,5,744,Italian
+76561198006620041,'|VII Fenix|-SdtV-Trooper',0,5,0,Italian
+76561198036280127,'|VII Fenix|-Mag-Barba Rossa',0,6,1465,Italian
+76561198407269734,'GDE | Vol.2 |  julien',2,8,865,British
+76561198033955994,'|VII Fenix|-Sdt-AdanFalcone',2,7,600,Italian
+76561198027906141,'GDE | Lt | Spitfire',8,3,1485,British
+76561198924754650,'GDE | Sex | bollucton 😍',21,6,1944,British
+76561199099071817,'|VII Fenix|-Sdt-Luk3',0,5,515,Italian
+76561198078622389,'GDE | Cpl-F | LUCOVA Maitre TK',8,5,958,British
+76561198969378229,'GDE | Gr.1 | Jules',7,4,1045,British
+76561199188180173,'GDE | Mat.1 | Lannes ',3,9,293,British
+76561199124571067,'4teRI_GW_Musk neoscav',3,2,700,Italian
+76561198435740919,'|VII Fenix|-Sgt.G-Cav-Thor',2,4,883,Italian
+76561198117347403,'|VII Fenix| -Rct-Abrosiaven',2,7,500,Italian
+76561198288978032,'[3rdTelm] Sjt-OleG',3,3,63,British
+76561198041618171,'GDE | Sgt | JOCELIN',24,5,2958,British
+76561198180695834,'GDE | Fsl | Lovegood',6,5,915,British
+76561198263003078,'GDE | E-V | BENDOU GANDHI',7,8,1132,British
+76561198126786591,'|VII Fenix|-Sdt-Cav-Glaudius99',5,6,545,Italian
+76561198083231627,'[Qing] Lord Humungus The V',0,0,-130,Italian
+76561199106396157,'GDE | Ch.1 | Louis Chevalier',5,7,915,British
+76561198048290239,'GDE | Gr.2 | Coup',2,6,675,British
+76561199041788694,'|VII Fenix|-Rct-Snauosix',3,8,440,Italian
+76561198031241483,'|VII Fenix|-Grd-Ten-cav-Lighino',16,10,1980,Italian
+76561198129303893,'[3rd] Private Nash',5,4,905,Italian
+76561198008483145,'GDE | F-Gr.2| St Vergeron (slash',4,6,1063,British
+76561199004432676,'4teRI_GW_StGefr*+*aw DlV*+*',6,4,455,Italian
+76561198375221322,'GDE | Fsl | general_LIONS',5,4,1385,British
+76561198824034015,'[3rd][Royal Marine] Cpl. Toasty',4,3,873,Italian
+76561199107043615,'|VII Fenix|-Rct-Lucareoex',1,5,70,Italian
+76561198325852828,'[3rd]  Brig. Melons',8,6,1228,Italian
+76561198063914153,'[3rd] Head Caterer Rangero?',9,5,1783,Italian
+76561198001706221,'4teRI_GW_Fw | KingKluro',0,2,356,Italian
+76561198001287579,'GDE | Cpt | Cappietaine',1,5,1675,British
+76561198263232436,'4teRI_GW_Rek PiloZockt',1,3,60,Italian
+76561198448541910,'GDE | Ch.1 | Jacques Loiseau',2,5,1230,British
+76561198808431187,'4teRI_GW_Stuffz | RTX v. Poi',0,2,720,Italian
+76561198392663816,'|VII Fenix|SdtS-Cav-Rezzy',1,6,570,Italian
+76561198359045489,'GDE | Cpl | Etienne Maginot',2,6,645,British
+76561198167550830,'|VII Fenix |-Grd-Art-VecchioLupo',2,6,490,Italian
+76561198128498519,'GDE | Lt |  Pierre Joseph Lorfon',1,4,1065,British
+76561198048662224,'|VII Fenix|-GrtS-Ten.Art-Pinoh',1,5,1045,Italian
+76561198884587931,'4teRI_GW_HptFw Hess v.Staufen',3,4,460,Italian
+76561198152296240,'[3rdTelm] Brg - Sputnik',1,3,60,British
+76561198796427645,'|VII Fenix|-Grd-Cpt.Art-Cester27',4,9,460,Italian
+76561198051287602,'GDE | Cpt | François Seguin',5,3,1635,British
+76561198079903455,'|VII Fenix|-ADMIN-Nattiv Stray',0,1,-20,Italian
+76561198283486529,'GDE | Fsl | Alexis',4,5,960,British
+76561198033000187,'GDE | Fsl | Lihino',3,4,1025,British
+76561199124436397,'GDE |Ch.1 (stage) | Jean Palette',9,7,478,British
+76561198223211336,'[3rdTelm] Sps-Måsemannen',7,2,690,British
+76561198001625323,'|VII Fenix|-Sdt-Secchio',0,7,490,Italian
+76561198006818218,'|VII Fenix|-SdtV-Il Domanda',3,5,240,Italian
+76561198087689595,'GDE | Stage-F | Paul Lotus',7,4,778,British
+76561197986232413,'4teRI_GW_Musk_Mr.Totenkopf',2,4,525,Italian
+76561198297303764,'GDE | Cpl-F| Aglox',6,4,1138,British
+76561198040989794,'GDE | Ch.2 | Charles Rillette',2,5,600,British
+76561198032521807,'|VII Fenix|-Sdt-Cav-EmaLux',3,6,780,Italian
+76561198101099935,'[3rdTelm] Kp-Rieban',1,2,110,British
+76561198203697996,'|ADMIN|-Meschia',0,2,-10,British
+76561199120312038,'|VII Fenix|-Rct-Fede',3,8,230,Italian
+76561199089316788,'|VII Fenix|-SdtV-Ten.Art-Disca!!',3,6,1250,Italian
+76561198226276144,'|VII Fenix| Cpl-Cav-Lorenzo',1,5,390,Italian
+76561199028704511,'[3rdTelm] Mng-Sovietgrisen',3,2,155,British
+76561198287972137,'|VII Fenix| AndreXLVII',4,4,1123,Italian
+76561198161882675,'|VII Fenix|-Rct-Fulvi',1,3,345,Italian
+76561198246764618,'3rd_Pvt_AssassinOfPower',2,6,455,Italian
+76561199148447911,'GDE|fsl| adrien',1,5,65,British
+76561199187507934,'GDE | Csc-fsl | minusse',5,5,450,British
+76561198103776521,'GDE | Lt | Jorwood',2,3,975,British
+76561198131892148,'4teRI_GW_Lt Manticore v. Nocturn',1,1,385,Italian
+
+76561198364520924,'GDE | Ch.2 | Antoine Antoine',5,7,1215,Russian
+76561198078622389,'GDE | Cpl-F | LUCOVA Maitre TK',6,5,865,Russian
+76561199188180173,'GDE | Mat.1 | Lannes ',7,8,813,Russian
+76561198969378229,'GDE | Gr.1 | Jules',0,1,-32,Russian
+76561198001706221,'4teRI_GW_Fw | KingKluro',2,3,600,French
+76561198103442477,'GDE | Fsl | Mouflard',2,6,1105,Russian
+76561198375221322,'GDE | Fsl | general_LIONS',3,7,765,Russian
+76561198055328934,'4teRI_GW_Kpl goortzer',1,3,340,French
+76561198829194062,'4teRI_GW_OStGefr ALEX',4,6,285,French
+76561198027906141,'GDE | Lt | Spitfire',13,4,1585,Russian
+76561198288978032,'[3rdTelm] Sjt-OleG',5,6,170,Russian
+76561198157745825,'4teRI_GW_Rek  Applejack',1,1,1405,French
+76561198407269734,'GDE | Vol.2 |  julien',3,3,475,Russian
+76561199028704511,'[3rdTelm] Mng-Sovietgrisen',2,3,30,Russian
+76561198103776521,'GDE | Lt | Jorwood',1,6,532,Russian
+76561198101099935,'[3rdTelm] Kp-Rieban',5,3,620,Russian
+76561198048290239,'GDE | Gr.2 | Coup',6,6,775,Russian
+76561198001287579,'GDE | Cpt | Cappietaine',7,6,1348,Russian
+76561198041618171,'GDE | Sgt | JOCELIN',22,5,2343,Russian
+76561198180695834,'GDE | Fsl | Lovegood',5,7,935,Russian
+76561198040520923,'GDE | Ch.1 | Antoine Julien',2,6,935,Russian
+76561199192789046,'4teRI_GW_OGefr - Fabian',3,4,524,French
+76561198126003687,'[87th] Maj. | GodEmperorBrolly',3,7,554,French
+76561198051287602,'GDE | Cpt | François Seguin',12,4,1420,Russian
+76561197977536576,'GDE | Ch.2 | Alexandre Prost',2,6,720,Russian
+76561198263003078,'GDE | E-V | BENDOU GANDHI',1,6,510,Russian
+76561198435740919,'|VII Fenix|-Sgt.G-Cav-Thor',4,5,875,French
+76561198031241483,'|VII Fenix|-Grd-Ten-cav-Lighino',9,4,1125,French
+76561198032521807,'|VII Fenix|-Sdt-Cav-EmaLux',2,6,380,French
+76561198392663816,'|VII Fenix|SdtS-Cav-Rezzy',1,5,95,French
+76561199106396157,'GDE | Ch.1 | Louis Chevalier',8,6,858,Russian
+76561198036280127,'|VII Fenix|-Mag-Barba Rossa',9,5,1320,French
+76561198161882675,'|VII Fenix|-Rct-Fulvi',3,7,545,French
+76561198924754650,'GDE | Sex | bollucton 😍',15,6,2054,Russian
+76561199107043615,'|VII Fenix|-Rct-Lucareoex',0,6,-40,French
+76561198359045489,'GDE | Cpl | Etienne Maginot',5,5,580,Russian
+76561198006620041,'|VII Fenix|-SdtV-Trooper',1,3,60,French
+76561198325852828,'[3rd]  Brig. Melons',7,7,745,French
+76561199112316865,'4teRI_GW_Rek Leutnant5',1,5,260,French
+76561198040989794,'GDE | Ch.2 | Charles Rillette',10,7,1873,Russian
+76561198128498519,'GDE | Lt |  Pierre Joseph Lorfon',4,5,928,Russian
+76561198033955994,'|VII Fenix|-Sdt-AdanFalcone',1,6,40,French
+76561198287972137,'|VII Fenix| AndreXLVII',2,4,500,French
+76561198824034015,'[3rd][Royal Marine] Cpl. Toasty',4,5,551,French
+76561198129303893,'[3rd] Private Nash',10,4,1125,French
+76561198008483145,'GDE | F-Gr.2| St Vergeron (slash',0,6,348,Russian
+76561198033000187,'GDE | Fsl | Lihino',5,6,605,Russian
+76561198448541910,'GDE | Ch.1 | Jacques Loiseau',1,5,1100,Russian
+76561198126786591,'|VII Fenix|-Sdt-Cav-Glaudius99',6,5,665,French
+76561198149267087,'|VII Fenix|-Sdt- SAURON',4,6,640,French
+76561198117347403,'|VII Fenix| -Rct-Abrosiaven',3,4,5,French
+76561198167550830,'|VII Fenix |-Grd-Art-VecchioLupo',2,6,530,French
+76561199004432676,'4teRI_GW_StGefr*+*aw DlV*+*',0,4,353,French
+76561198283486529,'GDE | Fsl | Alexis',1,7,100,Russian
+76561199124571067,'4teRI_GW_Musk neoscav',10,5,935,French
+76561199124436397,'GDE |Ch.1 (stage) | Jean Palette',5,10,340,Russian
+76561199148447911,'GDE|fsl| adrien',4,7,425,Russian
+76561199187507934,'GDE | Csc-fsl | minusse',4,6,575,Russian
+76561198263232436,'4teRI_GW_Rek PiloZockt',1,6,320,French
+76561198808431187,'4teRI_GW_Stuffz | RTX v. Poi',1,4,323,French
+76561198131892148,'4teRI_GW_Lt Manticore v. Nocturn',3,4,140,French
+76561198001625323,'|VII Fenix|-Sdt-Secchio',1,6,385,French
+76561198246764618,'3rd_Pvt_AssassinOfPower',4,5,745,French
+76561198267566162,'|VII Fenix|-Grt-Leozaz',0,1,-10,French
+76561198116124317,'3RD Merc -  CSG Lt Harper',0,0,-10,French
+76561198297303764,'GDE | Cpl-F| Aglox',0,3,750,Russian
+76561198079903455,'|VII Fenix|-ADMIN-Nattiv Stray',0,1,-20,Russian
+76561198087689595,'GDE | Stage-F | Paul Lotus',6,8,550,Russian
+76561199041788694,'|VII Fenix|-Rct-Snauosix',10,3,1535,French
+76561199099071817,'|VII Fenix|-Sdt-Luk3',3,6,670,French
+76561198796427645,'|VII Fenix|-Grd-Cpt.Art-Cester27',4,5,945,French
+76561198352783987,'4teRI_GW_Reit Tim',1,6,60,French
+76561198063914153,'[3rd] Head Caterer Rangero?',9,6,1002,French
+76561198226276144,'|VII Fenix| Cpl-Cav-Lorenzo',3,7,770,French
+76561198152296240,'[3rdTelm] Brg - Sputnik',6,6,680,Russian
+76561198203697996,'|ADMIN|-Meschia',0,1,-20,Russian
+76561198884587931,'4teRI_GW_HptFw Hess v.Staufen',12,4,1240,French
+76561197986232413,'4teRI_GW_Musk_Mr.Totenkopf',1,3,260,French
+76561199089316788,'|VII Fenix|-SdtV-Ten.Art-Disca!!',3,5,715,French
+76561198223211336,'[3rdTelm] Sps-Måsemannen',1,8,30,Russian
+76561198220002765,'[3rd] Cpl. Sly',9,9,600,French
+76561198006818218,'|VII Fenix|-SdtV-Il Domanda',7,4,680,French
+76561198083231627,'[Qing] Lord Humungus The V',0,5,-35,French
+76561198085123393,'GDE | M.O | KOBA ',0,3,50,Russian
+
+76561198364520924,'GDE | Ch.2 | Antoine Antoine',4,6,1415,Prussian
+76561198288978032,'[3rdTelm] Sjt-OleG',12,4,1675,Prussian
+76561198101099935,'[3rdTelm] Kp-Rieban',4,3,550,Prussian
+76561198220002765,'[3rd] Cpl. Sly',14,4,2347,Italian
+76561197977536576,'GDE | Ch.2 | Alexandre Prost',3,7,840,Prussian
+76561198036280127,'|VII Fenix|-Mag-Barba Rossa',0,5,960,Italian
+76561198126786591,'|VII Fenix|-Sdt-Cav-Glaudius99',3,4,520,Italian
+76561198032521807,'|VII Fenix|-Sdt-Cav-EmaLux',4,5,655,Italian
+76561198078622389,'GDE | Cpl-F | LUCOVA Maitre TK',7,8,737,Prussian
+76561198103442477,'GDE | Fsl | Mouflard',2,7,330,Prussian
+76561198048290239,'GDE | Gr.2 | Coup',8,5,475,Prussian
+76561198407269734,'GDE | Vol.2 |  julien',4,5,565,Prussian
+76561198924754650,'GDE | Sex | bollucton 😍',18,5,3180,Prussian
+76561198129303893,'[3rd] Private Nash',12,4,1845,Italian
+76561198375221322,'GDE | Fsl | general_LIONS',1,5,1820,Prussian
+76561198040520923,'GDE | Ch.1 | Antoine Julien',5,5,1470,Prussian
+76561198041618171,'GDE | Sgt | JOCELIN',14,6,1387,Prussian
+76561198031241483,'|VII Fenix|-Grd-Ten-cav-Lighino',14,8,1230,Italian
+76561199188180173,'GDE | Mat.1 | Lannes ',1,4,5,Prussian
+76561198435740919,'|VII Fenix|-Sgt.G-Cav-Thor',5,4,1018,Italian
+76561198051287602,'GDE | Cpt | François Seguin',6,6,2033,Prussian
+76561199041788694,'|VII Fenix|-Rct-Snauosix',3,6,630,Italian
+76561198149267087,'|VII Fenix|-Sdt- SAURON',3,6,585,Italian
+76561198001287579,'GDE | Cpt | Cappietaine',15,5,2049,Prussian
+76561198325852828,'[3rd]  Brig. Melons',3,4,680,Italian
+76561199106396157,'GDE | Ch.1 | Louis Chevalier',8,5,1480,Prussian
+76561198161882675,'|VII Fenix|-Rct-Fulvi',5,5,750,Italian
+76561199099071817,'|VII Fenix|-Sdt-Luk3',4,7,884,Italian
+76561198117347403,'|VII Fenix| -Rct-Abrosiaven',2,6,410,Italian
+76561198085123393,'GDE | M.O | KOBA ',1,3,540,Prussian
+76561198157745825,'4teRI_GW_Rek  Applejack',0,3,1435,Italian
+76561198263003078,'GDE | E-V | BENDOU GANDHI',9,7,1030,Prussian
+76561199004432676,'4teRI_GW_StGefr*+*aw DlV*+*',5,5,830,Italian
+76561199192789046,'4teRI_GW_OGefr - Fabian',3,3,796,Italian
+76561198824034015,'[3rd][Royal Marine] Cpl. Toasty',5,6,1175,Italian
+76561198027906141,'GDE | Lt | Spitfire',5,5,838,Prussian
+76561198131892148,'4teRI_GW_Lt Manticore v. Nocturn',0,3,620,Italian
+76561198001706221,'4teRI_GW_Fw | KingKluro',3,3,835,Italian
+76561198152296240,'[3rdTelm] Brg - Sputnik',3,2,428,Prussian
+76561198287972137,'|VII Fenix| AndreXLVII',5,5,929,Italian
+76561198040989794,'GDE | Ch.2 | Charles Rillette',5,7,1140,Prussian
+76561198126003687,'[87th] Maj. | GodEmperorBrolly',1,7,1391,Italian
+76561198079903455,'|VII Fenix|-ADMIN-Nattiv Stray',0,1,-20,Italian
+76561198392663816,'|VII Fenix|SdtS-Cav-Rezzy',1,5,330,Italian
+76561198103776521,'GDE | Lt | Jorwood',5,5,885,Prussian
+76561199124571067,'4teRI_GW_Musk neoscav',1,4,340,Italian
+76561199028704511,'[3rdTelm] Mng-Sovietgrisen',4,5,315,Prussian
+76561198829194062,'4teRI_GW_OStGefr ALEX',10,3,1406,Italian
+76561198226276144,'|VII Fenix| Cpl-Cav-Lorenzo',2,5,430,Italian
+76561198006818218,'|VII Fenix|-SdtV-Il Domanda',3,4,460,Italian
+76561198167550830,'|VII Fenix |-Grd-Art-VecchioLupo',4,5,795,Italian
+76561198796427645,'|VII Fenix|-Grd-Cpt.Art-Cester27',0,7,680,Italian
+76561199124436397,'GDE |Ch.1 (stage) | Jean Palette',6,9,730,Prussian
+76561198001625323,'|VII Fenix|-Sdt-Secchio',2,5,420,Italian
+76561198263232436,'4teRI_GW_Rek PiloZockt',1,5,580,Italian
+76561198283486529,'GDE | Fsl | Alexis',5,6,645,Prussian
+76561198033955994,'|VII Fenix|-Sdt-AdanFalcone',0,6,270,Italian
+76561198223211336,'[3rdTelm] Sps-Måsemannen',1,4,570,Prussian
+76561198033000187,'GDE | Fsl | Lihino',2,5,935,Prussian
+76561199187507934,'GDE | Csc-fsl | minusse',5,5,830,Prussian
+76561199148447911,'GDE|fsl| adrien',1,4,290,Prussian
+76561198884587931,'4teRI_GW_HptFw Hess v.Staufen',4,4,1012,Italian
+76561198055328934,'4teRI_GW_Kpl goortzer',3,3,755,Italian
+76561198448541910,'GDE | Ch.1 | Jacques Loiseau',2,5,1040,Prussian
+76561198087689595,'GDE | Stage-F | Paul Lotus',1,6,925,Prussian
+76561198203697996,'|ADMIN|-Meschia',0,1,0,Prussian
+76561199112316865,'4teRI_GW_Rek Leutnant5',2,2,880,Italian
+76561198116124317,'3RD Merc -  CSG Lt Harper',4,6,1320,Italian
+76561197986232413,'4teRI_GW_Musk_Mr.Totenkopf',1,5,95,Italian
+76561198808431187,'4teRI_GW_Stuffz | RTX v. Poi',1,3,600,Italian
+76561198352783987,'4teRI_GW_Reit Tim',1,3,800,Italian
+76561198359045489,'GDE | Cpl | Etienne Maginot',1,6,1000,Prussian
+76561199089316788,'|VII Fenix|-SdtV-Ten.Art-Disca!!',5,4,1300,Italian
+76561198080128422,'GDE | Csc | Ferreira',1,2,570,Prussian
+
