@@ -1,4 +1,4 @@
-# Leaderboard-Evento
+# Event Leaderboard
 
 Simple C++ program to generate a leaderboard taking in input a server score log file.
 
